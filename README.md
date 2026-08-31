@@ -1,6 +1,6 @@
 # Atul Shridhar
 
-Fractional CTO at **Medh AI Systems** · ex-**Atlassian** · ex-**Paytm** · Toronto, Canada 🇨🇦
+Hands-on builder of production AI agents, inference platforms & developer systems · ex-Atlassian · ex-Paytm
 
 ## Connect
 
