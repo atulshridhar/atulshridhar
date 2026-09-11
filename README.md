@@ -1,6 +1,6 @@
 # Atul Shridhar
 
-Builder of production AI agents; developer experience
+Applied AI Engineer
 
 ## Connect
 
