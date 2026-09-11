@@ -1,6 +1,6 @@
 # Atul Shridhar
 
-Hands-on builder of production AI agents, inference platforms & developer systems · ex-Atlassian · ex-Paytm
+Builder of production AI agents; developer experience
 
 ## Connect
 
